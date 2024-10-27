@@ -34,5 +34,8 @@ For example we have anchor-postive/negative pair then these these two images wil
 
 ### 2. Model :
 ![](https://github.com/Srishti002/Face-Recognition-using-Siamese-Network-/blob/main/Screenshot%202024-10-27%20224833.png)
+
+- First we will make embedding layer through which each of anchor and positive/negative images will be passed and we will get feature vector of both .
+  
   
 
