@@ -49,18 +49,18 @@ For example we have anchor-postive/negative pair then these these two images wil
 
 ### 3. Training :
 For training purpose :
+
 > Epochs = 30
+
 > Loss : Binary Cross Entropy Loss
+
 > Optimizer : Adam Optimizer
-> 
+
+  Training Loss  :
+  
+  ![](https://github.com/Srishti002/Face-Recognition-using-Siamese-Network-/blob/main/Screenshot%202024-10-28%20021018.png)
 
 ### 4. Real time testing :
 - In this we will create one directory in which we will save our real time captured pic which is done through opencv functions and one more directory in which we will have some positive images means if we want to detect our face then this positive directory contains pics of ourselves as by this we will compare our real time captured pic with these positive images .
-
-  ![](https://github.com/Srishti002/Face-Recognition-using-Siamese-Network-/blob/main/Screenshot%202024-10-28%20012700.png)
-
-  Here, we passing three parameters as *'model' , 'detection_threshold' , 'verification_threshold'* .
-  Detection threshold means a metric above which a prediction is considered positive and verification_threshold means proportion of positive predictions/ total positive samples 
-  
   
 
