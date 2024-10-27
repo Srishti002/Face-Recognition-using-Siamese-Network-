@@ -31,5 +31,8 @@ For example we have anchor-postive/negative pair then these these two images wil
 - Dividing into training and testing set :
 
   ![](https://github.com/Srishti002/Face-Recognition-using-Siamese-Network-/blob/main/Screenshot%202024-10-27%20224500.png)
+
+### 2. Model :
+![](https://github.com/Srishti002/Face-Recognition-using-Siamese-Network-/blob/main/Screenshot%202024-10-27%20224833.png)
   
 
