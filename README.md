@@ -21,4 +21,8 @@ For example we have anchor-postive/negative pair then these these two images wil
   ![](https://github.com/Srishti002/Face-Recognition-using-Siamese-Network-/blob/main/Screenshot%202024-10-27%20222724.png)
 
 - Then we have to also apply transformation as :
+  ![](https://github.com/Srishti002/Face-Recognition-using-Siamese-Network-/blob/main/Screenshot%202024-10-27%20223011.png)
+
+- Now we have to get our final data with proper labels assigned. So first we will make dataset with '1' label with anchor-postive pairs and then '0' label with anchor-negative pairs. After this we will concatenate both datasets to get final dataset containing both anchor-postive and anchor-negative pairs with their respective labels.
+  
   
