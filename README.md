@@ -46,5 +46,15 @@ For example we have anchor-postive/negative pair then these these two images wil
 - Now final we will add a classifier and add both above functions under one single function as :
   
   ![](https://github.com/Srishti002/Face-Recognition-using-Siamese-Network-/blob/main/Screenshot%202024-10-27%20231848.png)
+
+### 3. Training :
+For training purpose :
+> Epochs = 30
+> Loss : Binary Cross Entropy Loss
+> Optimizer : Adam Optimizer
+
+### 4. Real time testing :
+- In this we will create one directory in which we will save our real time captured pic which is done through opencv functions and one more directory in which we will have some positive images means if we want to detect our face then this positive directory contains pics of ourselves as by this we will compare our real time captured pic with these positive images .
+  
   
 
