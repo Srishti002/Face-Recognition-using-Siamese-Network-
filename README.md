@@ -40,6 +40,8 @@ For example we have anchor-postive/negative pair then these these two images wil
   ![](https://github.com/Srishti002/Face-Recognition-using-Siamese-Network-/blob/main/Screenshot%202024-10-27%20225949.png)
 
 - Then we will make distance layer calculating L1 distance :
+
+  ![](https://github.com/Srishti002/Face-Recognition-using-Siamese-Network-/blob/main/Screenshot%202024-10-27%20230905.png)
   
   
 
