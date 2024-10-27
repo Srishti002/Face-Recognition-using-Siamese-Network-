@@ -13,10 +13,12 @@ For example we have anchor-postive/negative pair then these these two images wil
 
 ## Step By Step Guide :
 
-### 1. Dataloading :-
+### 1. Dataloading and Pre-processing:-
 - collected real time positive and anchor images of myself using OpenCv function. Collected atmost 300-400 images of myself separately for anchor and positive and also saved them in their respective positive and anchor directories.
 - For negative images , I used LFW(labelled faces in wild) dataset. Link : https://www.kaggle.com/datasets/jessicali9530/lfw-dataset 
 - Then we save all negative images in a separate folder.
 - Then we make dataset of 180 images from each folder of anchor,positive,negative.
   ![](https://github.com/Srishti002/Face-Recognition-using-Siamese-Network-/blob/main/Screenshot%202024-10-27%20222724.png)
-   
+
+- Then we have to also apply transformation as :
+  
