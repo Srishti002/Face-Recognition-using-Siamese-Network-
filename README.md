@@ -61,6 +61,6 @@ For training purpose :
   ![](https://github.com/Srishti002/Face-Recognition-using-Siamese-Network-/blob/main/Screenshot%202024-10-28%20021018.png)
 
 ### 4. Real time testing :
-- In this we will create one directory in which we will save our real time captured pic which is done through opencv functions and one more directory in which we will have some positive images means if we want to detect our face then this positive directory contains pics of ourselves as by this we will compare our real time captured pic with these positive images .
+- In this we will create one directory in which we will save our real time captured pic which is done through opencv functions and one more directory in which we will have some positive images means if we want to detect our face then this positive directory contains pics of ourselves as by this we will compare our real time captured pic with these positive images . we will *'True'* when the model detects the same face and *'wrong'* when it detects different face
   
 
